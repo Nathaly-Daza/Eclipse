@@ -1,0 +1,13 @@
+package co.edu.ue.repository;
+
+import java.util.List;
+import co.edu.ue.model.Course;
+
+public class CourseData {
+	List<Course> dataCourses;
+	
+	public CourseData() {
+		this.dataCourses = new ArrayList<Course>();
+	}
+
+}

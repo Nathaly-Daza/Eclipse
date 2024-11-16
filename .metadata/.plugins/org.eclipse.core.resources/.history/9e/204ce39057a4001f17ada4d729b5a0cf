@@ -1,0 +1,31 @@
+package co.edu.ue.model;
+
+public class Course {
+	//1.Atributos -> nombres de atributos significativos
+	private String name;
+	private String description;
+	private double duration;
+	private double cost;
+	
+	//2. Constructor -> permiten la inicializacion de atributos
+	//El onstructor esta casado con la instanciacion
+	//Puedo tener mas de un constructor -> Sobre carga de constructores
+	//El constructor siempre es público
+	
+	public Course() {
+		
+	}
+
+	public Course(String name, String description, double duration, double cost) {
+		super();
+		this.name = name;
+		this.description = description;
+		this.duration = duration;
+		this.cost = cost;
+	}
+	
+	
+	
+}
+
+
