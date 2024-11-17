@@ -319,3 +319,24 @@
 2024-11-16 20:19:49,280 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-11-16 20:19:49,304 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-11-16 20:19:49,310 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Proyecto\8-CoursesDatabase\src\test\resources
+2024-11-16 20:33:19,144 [Worker-205: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-16 20:33:19,147 [Worker-205: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-16 20:33:19,151 [Worker-205: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Proyecto\8-CoursesDatabase\src\test\resources
+2024-11-16 20:34:43,129 [Worker-210: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-16 20:34:43,174 [Worker-210: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-16 20:34:43,189 [Worker-210: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Proyecto\8-CoursesDatabase\src\test\resources
+2024-11-16 20:43:03,739 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-16 20:43:03,746 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-16 20:43:03,750 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Proyecto\8-CoursesDatabase\src\test\resources
+2024-11-16 20:45:25,137 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-16 20:45:25,151 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-16 20:45:25,156 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Proyecto\8-CoursesDatabase\src\test\resources
+2024-11-16 20:48:00,439 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-16 20:48:00,452 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-16 20:48:00,458 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Proyecto\8-CoursesDatabase\src\test\resources
+2024-11-16 20:50:18,814 [Worker-216: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-16 20:50:18,826 [Worker-216: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-16 20:50:18,832 [Worker-216: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Proyecto\8-CoursesDatabase\src\test\resources
+2024-11-16 20:51:27,297 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-16 20:51:27,305 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-16 20:51:27,310 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Proyecto\8-CoursesDatabase\src\test\resources
