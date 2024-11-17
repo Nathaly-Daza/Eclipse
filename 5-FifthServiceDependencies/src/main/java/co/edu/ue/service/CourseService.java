@@ -16,11 +16,13 @@ public class CourseService implements ICourseService {
 //Traer la Data por instanciacion
 	//private CourseData data = new CourseData();
 	
-	//Inyeccion por interface
-	@Autowired
-	ICourseData data;
+	private CourseData data;
 	
-	
+	@Autowired //Inyeccion por metodo set
+	public void setData(CourseData data) {
+		this.data = data;
+	}
+
 	private final double IVA_19 = 0.19;
 	private final double DESCUENTO = 1.5;
 

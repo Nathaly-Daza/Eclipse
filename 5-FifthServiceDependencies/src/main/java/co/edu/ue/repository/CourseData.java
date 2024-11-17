@@ -3,6 +3,8 @@ package co.edu.ue.repository;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 import co.edu.ue.model.Course;
 

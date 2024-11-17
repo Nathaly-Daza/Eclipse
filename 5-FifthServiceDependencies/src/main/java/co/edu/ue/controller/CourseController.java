@@ -23,11 +23,14 @@ public class CourseController {
 	//Atributos
 	//private CourseService servicio = new CourseService();
 	
+	private CourseService servicio;
 	
-	//Inyección por interface
+	//iNYECCION POR METODO SET
 	@Autowired
-	ICourseService servicio;
-	
+	public void setServicio(CourseService servicio) {
+		this.servicio = servicio;
+	}
+
 	@GetMapping(value="courses", produces = MediaType.APPLICATION_JSON_VALUE)
 	public List<Course> getCourses(){
 		return servicio.getCourseDataNoIva();
