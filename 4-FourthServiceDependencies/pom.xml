@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>co.edu.ue</groupId>
-	<artifactId>3-ThirdService</artifactId>
-	<version>3</version>
-	<name>2-ThirdServiceDependencies</name>
+	<artifactId>4-FourthService</artifactId>
+	<version>4</version>
+	<name>4-FourthServiceDependencies</name>
 	<description>Mi tercer Servicio</description>
 	<url/>
 	<licenses>

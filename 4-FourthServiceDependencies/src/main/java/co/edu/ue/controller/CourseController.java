@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import co.edu.ue.model.Course;
 import co.edu.ue.service.CourseService;
+import co.edu.ue.service.ICourseService;
 
 @RestController
 @RequestMapping(value="api")
@@ -23,9 +24,9 @@ public class CourseController {
 	//private CourseService servicio = new CourseService();
 	
 	
-	//Inyección por atributo
+	//Inyección por interface
 	@Autowired
-	CourseService servicio;
+	ICourseService servicio;
 	
 	@GetMapping(value="courses", produces = MediaType.APPLICATION_JSON_VALUE)
 	public List<Course> getCourses(){

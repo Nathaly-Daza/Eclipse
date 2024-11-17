@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 
 import co.edu.ue.model.Course;
 import co.edu.ue.repository.CourseData;
+import co.edu.ue.repository.ICourseData;
 
 @Service
 public class CourseService implements ICourseService {
@@ -15,9 +16,9 @@ public class CourseService implements ICourseService {
 //Traer la Data por instanciacion
 	//private CourseData data = new CourseData();
 	
-	//Inyeccion por atributo
+	//Inyeccion por interface
 	@Autowired
-	CourseData data;
+	ICourseData data;
 	
 	
 	private final double IVA_19 = 0.19;

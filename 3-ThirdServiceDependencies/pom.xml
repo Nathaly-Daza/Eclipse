@@ -11,7 +11,7 @@
 	<groupId>co.edu.ue</groupId>
 	<artifactId>3-ThirdService</artifactId>
 	<version>3</version>
-	<name>2-ThirdServiceDependencies</name>
+	<name>3-ThirdServiceDependencies</name>
 	<description>Mi tercer Servicio</description>
 	<url/>
 	<licenses>
