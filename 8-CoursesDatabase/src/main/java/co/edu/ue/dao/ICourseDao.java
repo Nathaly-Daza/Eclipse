@@ -1,5 +1,12 @@
 package co.edu.ue.dao;
 
-public interface ICourseDao {
+import java.util.List;
+import co.edu.ue.entity.Curse;
 
+public interface ICourseDao {
+	List<Curse> listCourses();
+	Curse searchById(int id);
+	
+	boolean postCurse(Curse course);
+	
 }
