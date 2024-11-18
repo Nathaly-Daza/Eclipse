@@ -23,9 +23,9 @@ public class TypeCurse implements Serializable {
 	@Column(name="type_description")
 	private String typeDescription;
 
-	//bi-directional many-to-one association to Curse
+	/*//bi-directional many-to-one association to Curse
 	@OneToMany(mappedBy="typeCurs")
-	private List<Curse> curses;
+	private List<Curse> curses;*/
 
 	public TypeCurse() {
 	}
@@ -46,7 +46,7 @@ public class TypeCurse implements Serializable {
 		this.typeDescription = typeDescription;
 	}
 
-	public List<Curse> getCurses() {
+	/*public List<Curse> getCurses() {
 		return this.curses;
 	}
 
@@ -66,6 +66,6 @@ public class TypeCurse implements Serializable {
 		curs.setTypeCurs(null);
 
 		return curs;
-	}
+	}*/
 
 }
